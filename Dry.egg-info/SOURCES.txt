@@ -1,0 +1,10 @@
+dev-requirements.txt
+pyproject.toml
+Dry/__init__.py
+Dry/__main__.py
+Dry.egg-info/PKG-INFO
+Dry.egg-info/SOURCES.txt
+Dry.egg-info/dependency_links.txt
+Dry.egg-info/requires.txt
+Dry.egg-info/top_level.txt
+tests/test_Dry.py
