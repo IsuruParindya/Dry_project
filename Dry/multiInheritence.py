@@ -24,6 +24,5 @@ class Child(Father, Mother):
         super().fatherProperty()
         super().motherProperty()
 
-
 akila = Child()
 akila.Property()
